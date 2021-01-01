@@ -1,8 +1,3 @@
-// mongo atlas
-// hbiaser132
-// vGDu3V0sTIfxBsDu
-// mongodb+srv://hbiaser132:vGDu3V0sTIfxBsDu@cluster0.cfl2q.mongodb.net/test
-
 require('./config/config');
 
 const express = require('express');
